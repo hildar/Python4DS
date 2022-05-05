@@ -1,5 +1,5 @@
-Repository of Python for Data Science!
+# Python4DS
 
-Course project: 
+Course of Python for Data Science!
 
-https://github.com/hildar/Python4DS/blob/Course_project/Python4DS%20-%20Course%20project.ipynb
+Course project in the file ["Python4DS - Course project.ipynb"]
