@@ -132,13 +132,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Big project .csv files
-*train.csv
-*toxic.csv
-
-# Big project model.dill file
-.dill
-
 # MacOS files
 .DS_Store
 
